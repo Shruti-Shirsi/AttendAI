@@ -1,0 +1,4 @@
+"""
+AttendAI Backend Core Package
+"""
+

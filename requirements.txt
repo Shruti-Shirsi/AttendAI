@@ -1,0 +1,8 @@
+opencv-python==4.10.0.84
+numpy
+scikit-learn
+pandas==2.2.3
+pyarrow==18.1.0
+Pillow
+streamlit
+requests
